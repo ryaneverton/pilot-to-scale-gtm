@@ -1,0 +1,23 @@
+{
+  "name": "pilot-to-scale-gtm",
+  "description": "The conversion and retention half of B2B GTM: pilots that convert, implementation that retains, competitive response and AI-fluent hiring.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ryan Everton",
+    "url": "https://ryaneverton.org"
+  },
+  "homepage": "https://github.com/ryaneverton/pilot-to-scale-gtm",
+  "repository": "https://github.com/ryaneverton/pilot-to-scale-gtm",
+  "license": "MIT",
+  "keywords": [
+    "claude",
+    "claude-skills",
+    "agent-skills",
+    "go-to-market",
+    "b2b",
+    "pilots",
+    "onboarding",
+    "retention",
+    "sales-hiring"
+  ]
+}

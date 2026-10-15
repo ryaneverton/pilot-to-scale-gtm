@@ -1,0 +1,16 @@
+{
+  "name": "pilot-to-scale-gtm",
+  "owner": {
+    "name": "Ryan Everton"
+  },
+  "metadata": {
+    "description": "The conversion and retention half of B2B GTM: pilots that convert, implementation that retains, competitive response and AI-fluent hiring."
+  },
+  "plugins": [
+    {
+      "name": "pilot-to-scale-gtm",
+      "source": "./",
+      "description": "The conversion and retention half of B2B GTM: pilots that convert, implementation that retains, competitive response and AI-fluent hiring."
+    }
+  ]
+}
